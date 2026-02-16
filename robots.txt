@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pancardresizer.co.in/sitemap.xml
